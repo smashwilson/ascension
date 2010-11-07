@@ -1,0 +1,5 @@
+# Ignore my progress spreadsheet.
+*.ods
+
+# Exclude ultra-secret plot brainstorming.
+scheming.txt
