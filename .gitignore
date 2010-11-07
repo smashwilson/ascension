@@ -1,5 +1,6 @@
-# Ignore my progress spreadsheet.
+# Ignore my progress spreadsheet, and its autosave.
 *.ods
+*.ods#
 
 # The data file used by words.rb.
 wordcount.dat
