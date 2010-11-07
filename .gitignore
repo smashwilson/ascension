@@ -1,5 +1,8 @@
 # Ignore my progress spreadsheet.
 *.ods
 
+# The data file used by words.rb.
+wordcount.dat
+
 # Exclude ultra-secret plot brainstorming.
 scheming.txt
