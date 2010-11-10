@@ -1,0 +1,22 @@
+Infiltration
+
+  Basic network searching revealed little about the two Intechs.  Neither had a particularly sinister web presence: both dealt in software and "cybernetics solutions," just like thousands of other companies did around the globe with varying degrees of success.  Their web pages could have been copied from one another explicitly.  Change the logo, keep the attractive, ethnically ambiguous poster people with phony grins, and shuffle the Corporate Vision statements through an appropriately trained markov model, and one could transform into the other with little effort.  For humor, James rigged up the animation: on the projected screen, one morphed smoothly into the other, then cycled through and returned to the first again in a continuous loop.
+  "One of these companies is a front for a hostile force of extraordinary resources and determination, pursuing an unknown agenda of killing and kidnapping.  The other sells glorified office products."  Chase tapped her fingers on the desk and thought.
+  James plowed through stock reports, industry newsletters, and any other hit he could find on either entity.  "An accountant might be able to give us an answer from this," he sighed, "but it's all mush to me."
+  Raziel sat cross-legged on the floor and watched them work, for a while.  James supposed that it was only natural for him to take an interest, as he was apparently risking life and limb on behalf of it.  He wondered if Raziel would have the same look of detached bemusement if they had turned out to be running a slave ring or dealing narcotics.  About halfway through the afternoon, Raziel stood up and left, without a word.  Presumably, he was doing his rounds around the neighborhood.  They could plainly see outside their window that few people were out and about in the weather, but he was not the type to cut corners.
+  "Okay, time for Plan B."  Chase sat up straight and rearranged the shared screen, bringing a set of command terminals to the foreground.  "Let's see the view from the inside."
+  She gained access to the first company's site with a single command.  Financial data, staff records, internal communications, even surveillance camera footage crowded her screen within moments.  "Hmmm," she murmured thoughtfully.  Chewing on her lip, she flipped through some random screens, looking for any obvious discrepancies.
+  Once she was satisfied with her access, she shut everything and brought her view back to a blank slate, then tried the second company.
+  Access denied.  Fifteen minutes of different scans and tools gained no headway.
+  James, who seldom saw her at work, watched with interest.  "How can you be sure that they won't catch you doing this?" he asked.
+  "Oh, I can't be, that's part of the fun," she replied breezily.  "I do broadcast a scrambled ident code, though.  I keep it on most of the time I'm online, actually."  She tried one last attack.  "This place has tighter security than any bank on this coast," she announced, satisfied.  "That's our target."
+  James grinned, then saw the problem.  "But if you can't get access from here..."
+  "We're going to need to get it in person."
+
+  According to public registration, the Intech in question was headquartered halfway down the coastline, about a day's trip by express rail.  Fortunately, it was the day before the weekend, so they should be able to make the trip easily.
+  A message to Raziel summoned him nearly instantaneously, as before.  Chase explained their intentions.
+  "That's fine, but-- If you couldn't circumvent their digital security, are you sure you can get through their physical security?" Raziel pointed out.
+  "I know who could help us," James interjected suddenly.  Chase looked at him questioningly.  "Spade is old hat at this kind of stuff.  I bet he'd be able to get us in without a hitch."
+  Raziel raised his eyebrows.
+  "We have kind of a hobby of going places that we aren't supposed to go," James explained.  "Usually abandoned buildings and the like.  Spade has been doing it for much longer than I have.  I've never asked for the details, but he's got a bit of a spotted past.  He had a reputation for not confining his exploring to the abandoned or the unsecured."
+  As he spoke, James fired a quick message to his friend, and had a reply back almost before he finished his sentence.  Spade had been itching for some action for a while, and missing their meeting the other night had only aggravated his impatience.
