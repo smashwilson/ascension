@@ -3,12 +3,19 @@
 @starting = @goal_string[/starting\W+(\d+)/, 1].to_i
 if @goal_string =~ /target\W+(\d+)/
   @target = $1.to_i
+  @quota = @target - @starting
 else
-  quota_str = @goal_string[/quota\W+(\d+)/, 1] || '1667'
-  @target = @starting + quota_str.to_i
+  @quota = (@goal_string[/quota\W+(\d+)/, 1] || 1667).to_i
+  @target = @starting + @quota
 end
 
 @current = `wc -w chapter*.txt | grep total`.to_i
-puts "Current count: #{@current}"
+@progress = @current - @starting
+
+@percent = @progress * 100.0 / @quota
+
+puts "Starting point: #{@starting}"
 puts "Today's target: #{@target}"
 puts "Remaining today: #{@target - @current}"
+puts
+puts "Current count: #{@current} [#{@progress}/#{@quota}] [#{@percent}%]"
