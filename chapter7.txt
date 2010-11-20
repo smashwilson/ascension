@@ -70,7 +70,7 @@ Codex
   The far door also slid open without difficulty.
   [Not how I would have designed the security systems, but I'll take it,] Raziel commented to the others.
   The corridor beyond dipped gently lower, leading them gradually further and further beneath the surface.  Florescence replaced reflected sunlight as their light source as they made their way deeper into the base.  Eventually, they came to another door with another green LED.  El confirmed that the room beyond was also unoccupied with the slightest of frowns.  The four entered warily.  This was a lobby of sorts for the lower floors of the base, an octagonal space with an empty ring of a desk sitting squatly in the room's center.  Three more doors were seated in other walls, each flashing a contented green LED.
-  [Something's not right--] began James.  As one, all four doors flashed blood red.
+  [Something's not right--] began James.  As one, all four door lights winked blood red.
   A man appeared in the center of the desk.  Raziel's reflexive shot passed harmlessly through his eye and lodged in the ceiling beyond.  He was tall, hatchet-faced, and dressed in a formal suit of impeccable taste.  He didn't even flinch.
   "Hologram," snarled Raziel.
   "Of course," said the man casually.  "Did you think I'd be there to greet you in person?"
@@ -83,11 +83,72 @@ Codex
   He watched, amused, as Chase furiously tried to gain a foothold in their network, eyes closed and brow furrowed intently.
   "You've already escaped from one of our prisons.  I won't give you the chance to escape from another."  A high-pitched whine rose to punctuate his words.  A mechanical buzz sounded all around them.  Covers high on four of the walls lifted, to reveal the muzzles of four emplaced guns.
   Raziel grabbed James and dove behind the desk, right at Gregory's projected feet.  El and Chase followed a split second behind.  Automatic gunfire filled the air like an angry hailstorm.  The desk shielded them from instant death, but a few stray bullets punctured its material, warning them that their cover was far from perfect.
-  Raziel's eyes half-lidded as he recalled the room's layout.  With a rapid motion of his wrist, he tossed a grenade over the desk's surface.  A moment later, a sharp bang was followed by a noticable lessening in the volume of the gunfire.  He nodded satisfaction, ignored Gregory's mocking eyes, and tossed another.  Two guns down, two to go.
+  Raziel's eyes half-lidded as he sought to recall the room's layout.  With a rapid motion of his wrist, he tossed a grenade over the desk's surface.  A moment later, a sharp bang was followed by a noticable lessening in the volume of the gunfire.  He nodded satisfaction, ignored Gregory's mocking eyes, and tossed another.  Two guns down, two to go.
   James frowned.  He could hear the piercing whine more clearly now over the diminished gunfire, and more worryingly, he felt a breeze...  "The bastard's draining our air!" he shouted.
   Already, the room's oxygen supply was growing light.  Grey spots appeared on Chase's vision as she tried to fill her lungs.  Raziel took a chance and hauled his head over the protective barrier of the desk for a moment, gun in hand.  Two shots rendered the other guns inoperable before they could compensate and track to his location.  By now, air was flooding from the room in a hurricane.  Abruptly, all was silent.
   James watched Chase curl in on herself, eyes working furiously behind the lids.
   One door's signal light flicked green.  Gregory frowned and disappeared.
   [Chase, you're the best!] he signalled, grabbing her arm and hauling her toward it.  Raziel and El followed.  Sure enough, the door opened easily, a flood of air greeting their hungry lungs.  They hurried through and collapsed against the corridor wall as the door slid shut behind them.
-  "That was fantastic," James said again, kissing Chase.
-  "That wasn't me," she said, shaking her head.  "I still can't get in."
+  "Fantastic timing," James said again, kissing Chase.
+  "That wasn't me," she said, shaking her head.  "I still can't get online."
+
+  Light after light blinked green in their path as they advanced through the corridor.  They passed more emplaced guns, sitting squatly at key junction points in their path.  Raziel hadn't been kidding when he described this base as one of the most highly secured in the world, but none opened fire.  James took the liberty of removing key parts as they passed, with the hope of making their escape a little more possible.
+  "We're being herded," El observed darkly.  "I don't like this."
+  "I don't think we have much choice," Chase answered.
+  They came to an intersection that, for once, wasn't barricaded with steel doors.  Raziel, in point, took a step forward, only to come to a sudden halt as another pair of guns down the hall spat a cluster of warning shots at his feet.
+  "Not this way, I suppose..." he muttered.
+  "It doesn't make sense to guide us into another ambush," James commented.  "I suppose there's a chance that Gregory is playing with us.  It seems like a costly game for him, though."
+  "I can't sense anything around us," El said warily.  "Either this base is deserted, or the people who work at this level are unaugmented."
+  The endless corridors that sprawled beneath the surface were labyrinthine in complexity.  James was lost in moments.  Even Raziel was disoriented.  Chase belatedly contemplated recording as she walked to replay later when they were finding their way out.  This facility was locked down much more effectively than the Intech base had been: they caught no furtive glimpses into offices or labs, nothing that could give them clues about layout or purpose.
+  Once, a door to the side opened as they walked by.  Through it was a shallow room, more of a closet, lined with firearms and ammunition.  With a shrug, James chose a pistol.  El and Raziel simultaneously went for the railgun rack, the bulky weapon comical in El's small arms.  Chase remained unarmed.
+  It took them a solid hour to reach the Codex.  Chase's HUD told her that they had only travelled a few kilometers from the landing pad.
+  A wide pair of double doors slid noiselessly open at their approach to reveal a wide, cylindrical room.  Stepping inside, they could see that the ceiling was a sheet of glass, hundreds of meters overhead.  The floor was lit from below by a symmetric network of lines, providing a soft, diffuse illumination to completement the natural light entering from above.  The room was largely empty except for its very center.  There, a modest pillar stood alone.  A soft hum, just at the edge of enhanced hearing, permeated the space.
+  Raziel stopped the others with a raised hand.  He produced a canister from his jacket and sprayed the air in front of him.  Dust swirled, revealing... nothing.  He frowned, replaced the canister, and strode on.
+  Chase rushed ahead to the pillar.  Sure enough, set into its smooth top was a small family of familiar connectors, standard jacks compatible with the last decade or so of neural interface augs.  James, taking a cue from Raziel's caution, stopped her and peered at the connectors suspiciously.
+  "It's trapped," he said, pointing to a pair of extra pins that framed the connector's edge.  He poked one, producing a fat spark.  "Just a moment..."   He pulled a spare piece of metal he'd taken from one of the guns in the hall out of his pocket, wrapped his hand in his sleeve, and connected the offending leads.  There was a crack and the sizzle of electric discharge.  Shaking his hand, he nodded.  "It looks clean enough.  Of course, there's a very good chance that the system is armed to the hilt with logic bombs, too."
+  "It seems whatever will brought us this far was unable to lift the impediments here," El noted.
+  "You'll never be able to pull me off in time if it fries me," Chase said.  She laughed nervously.  "I'm glad I upgraded Paranoiac before we left."
+  James swallowed.  "Let me connect instead," he said.  She waved him away good naturedly, took a deep breath, and jacked in.
+  The first sound she made was a laugh.  "Attack vector blocked," she said, making a victory motion with her fist.  Her expression turned to dismay.  "Shit."
+  "What?  What is it?"
+  "Oh, it's just a login screen.  My password crackers haven't been any good thus far..."  Her voice trailed off as she concentrated.  "Wait.  Seriously?"
+  As the system logged her in, she projected the view and toggled the password entry to clear text, showing the others the account credentials she'd produced.  Raziel put his palm to his forehead.
+
+PANDORA135
+
+  "Really?  I mean... really?"  The Codex was hers to access and, if the screen told the truth, command.
+  Not knowing how much time their unseen benefactor would grant them, she set to work dumping everything in the system to her internal storage.  There were trillions of keys, but each was only a few kilobytes long, with a small set of metadata describing the systems and data they protected.  She had to clear some space on her internal storage, but the transfer took minutes.  As a measure of prudence, she replicated it to the other three.
+  As she enqueued an orderly disconnect, she hesitated just a moment before she fired one mischievous parting command:
+
+rm -rf /
+
+  The hum beneath their feet increased in intensity as the Codex shredded itself from the inside out.
+
+  The LED marking the exit behind them glowed a steady red; whatever force had brought them here apparently wasn't going to lead them back out.  Consternation reigned until Chase remembered that she had just stolen the login credentials for every Siren system in the galaxy.  A moment's query later and she was online.  Information flowed through her from Siren's network.
+  "Wait," said Raziel.  "You have access to all of their records and logs?  Everything?"
+  Chase nodded confirmation.  "Everything at this facility, anyway.  It's an isolated network.  They only make connections to the outside net at controlled points and limited durations."
+  "Look for Alice."
+  Chase's eyes lit.  She closed them kicked off a query.  The four stood in the room, waiting.
+  "Men are approaching," El said tersely.  "Armed men."  He focused, rubbing his head.  "And I can't fog them, they're shielded."
+  "Let's go.  Can you connect while you walk?" Raziel asked.
+  "I'll guide you," James said, holding her hand.  Chase opened the door in front of them and they made haste the way down the corridor the way they'd come.
+  In a few short seconds the pursuing troops gained visual contact.  Shots pocked the walls around them.  Raziel returned fire as El and James broke into a sprint, James pulling Chase in a stumbling run.  Chase shared her coordinate marker, planted on the nearest hanger bay she could find, a small auxiliary space for private craft.
+  "Deneb," she shouted suddenly.  Her eyes opened.  "Alice was routed to Deneb.  It doesn't say what for."  She almost tripped, freed herself from James' grip, and dashed around a corner.  As they passed through a barrier doorway, it slammed shut and audibly locked itself tight.  Raziel started until he realized that Chase was barricading them from their pursuers.
+  "That should buy us some time," she said.  "This way."
+  She led them into an elevator.  The doors slid open to reveal a man holding a cup of coffee.  Raziel had splattered him against the opposite wall with a railgun discharge before he had a chance to do more than notice them.  Fortunately, the walls here were somewhat sturdier than Intech's, and he didn't do more harm to the opposite wall than a slight dent.
+  El shared a glance with James.  "I didn't see him.  Unaugmented."
+  The elevator lifted them smoothly through three or four intervening floors before stopping with a soft ding.  The corridors here seemed better-kept: less dusty, soothing lights, carpetting.  From here, a few more meters brought them to the hanger bay.  Chase locked the door behind them as they entered.
+  The hanger had a quiet elegance.  An opulent shuttle, suitable for interstellar travel and accommodating three or four passengers, rested on a polished floor of obsidian panelling.  The far wall was a massive glass portal.  Outside, they could see the barren, crater-pocked landscape beyond.  Another internal query found Chase the keys; a thought dropped the shuttle's entrance ramp.
+  Gregory strode out, an assault weapon in hand.  This time, he didn't bother trying to taunt them.  He opened fire.
+  As one, they dove in four different directions, each trying frantically to find cover.  Gregory leapt about the room, impossibly fast, overcharged with the best electronics that money could buy.  Bullets richocheted about the room, punctuated by the heavy thuds of Raziel and El's railguns.  By unspoken accord, they did their best not to hit the ship, which complicated their aim.  Gregory dodged their fire with effortless ease.
+  A burst of Gregory's fire brushed across Raziel's arm.  He cursed loudly, firing payload after payload with his other hand.  El tracked him more steadily with his weapon as Gregory jumped high into the air, over his shuttle's roof, leveling his aim for a killing strike.
+  A loud retort echoed in the spacious bay.  Gregory's head jerked with an impact and he went limp in midair.  One of El's final shots caught his corpse full in the chest, obliterating his legs and torso before it completed its fall.
+  James looked at his smoking pistol, surprised as much as his companions.
+  "Nice shot," said El.
+  A guttural noise turned their attention to Raziel.  Raziel's right arm was in poor shape; he'd caught a full burst down his forearm and was bleeding freely.  James thumbed the safety of his weapon on and holstered it, coming to Raziel's side.  With El's help they were able to fashion a makeshift tourniquet of sorts.
+  "Let's get the hell out of here," he muttered, teeth gritted in pain.  He struggled to his feet.  Chase helped him upright, slinging his arm around her for support, and together they wobbled unevenly into the waiting craft.
+
+  Everything on the shuttle's interior was top of the line: leather seats, a double bed, a refrigerator stocked with Earth-grown food.  Raziel had eyes for the first aid kit.  As soon as he was within arm's reach of it, he yanked it from the wall, slumped into a decadent easy chair (getting blood all over the upholstery), and went to work with its contents.  He breathed a heavy sigh of relief as the painkillers kicked in.
+  "Think you can fly a shuttle, James?" he asked.
+  "Well, I could certainly try--"
+  "I can pilot adequately, I think," offered El, much to James' relief.  El hurried into the waiting cockpit, seated himself, and took the yoke.  He cast a meaningful glance at Chase.  After an uncomprehending moment, she closed her eyes.  The hanger doors slid smoothly open before them.  El eased on the throttle and the ship slid away from the base.
