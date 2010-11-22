@@ -1,4 +1,4 @@
-Guardian Angel
+Angel
 
   The next day, while James was at work, Chase pulled data from the logs she'd recovered from the Intech files.  Optical video capture was not the ideal method to store large volumes of text.  She spent the morning crafting and debugging a program to automate the extraction of the raw data.  The afternoon was spent running it on her visual storage unit.  Her rushed handiwork was good enough to pull most of the data without intervention, but she had written the software to default to a manual query when its uncertainty passed a certain threshold.  Even the small percentage of particularly noisy frames that required her input occupied several hours.
   By the time James came home somewhat early that afternoon, she had the full log scanned and indexed.  She greeted him with a kiss and shared her view on a projected screen.  James settled beside her on the couch with a snack.  Together, they started to skim their way through the lengthy file, pausing frequently.  It was dense reading, full of ill-defined jargon and raw data.
