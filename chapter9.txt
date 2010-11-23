@@ -1,0 +1,73 @@
+Uprising
+
+  The four companions listened silently in the pre-dawn gloom of the alleyway.
+  [Our primary strike is about to commence,] Toa informed them.  [I'll share our countdown through this channel.  Now would be a good time to stage your jailbreak.  Are you in position?]
+  Raziel confirmed.  [Our primary target is already dead,] he reported, hollowly.  [Now we're proceeding with the operation to find any other survivors.]
+  [Noted,] Toa replied, [and I'm sorry to hear that.]  There was a pause.  [I'm needed to coordinate the strike.  Toa out.]  The channel cut.
+  There was stillness as each watched the strike counter glowing in the periphery of their HUDs.  Five minutes counted down on the digital readouts.
+  [Pandora is the worst name they could have chosen for that project,] Chase commented suddenly.  The others looked at her.  [Pandora's box.  You open it and all of the world's worst woes come tumbling out.  If you're going to name a project where you're playing god, it has the worst possible connotations for it.  I mean, it's like calling your surveillance program "Orwell," or your eugenics program "Genocide."]
+  Raziel shrugged.  [Maybe someone has a sense of irony?]
+  The four minute mark passed.
+  [Screw this,] James broadcast suddenly.  Before anyone could stop him, he rounded the corner, kicked the door in with a single sharp strike of his heel, and opened fire inside.  A wailing alarm screeched through the air; beams of angry red light strobed across the door's opening.
+  Raziel was the first to join him, but the element of surprise had served him well.  Five bodies were already slumped around the building's lobby.  A sixth guard had crouched behind a reception desk and was trying to sneak shots around a potted plant.  Raziel fired his railgun.  The center section of the desk shattered in a spray of imitation wood.  The guard vanished in a messy spray against the far wall.  James marched toward the elevator, pistol ready.
+  As the elevator arrived and its door hissed open, the alarms and the flashing lights ceased.  A security camera mounted high on the wall sparked and fell to the floor.  Chase grinned.
+  <I take it they haven't changed their keys yet?> El asked.
+  [No, they did,] Chase responded.  [But they must have chosen the replacement passwords in a hurry.  That took about fifteen seconds to crack with a standard dictionary.]
+  As the elevator rose through the skyscraper, El stirred.
+  <There are slaves here,> he announced to the others.  <I would be greatful if we leave as many of them alive as we can.>
+  [I fire at whatever fires back,] James responded grimly.
+  <That should be fine, then.  My people are held in bondage by an implant chip, usually.  It renders them generally unresponsive, but lets the humans directly access our scanning abilities.  I would be very surprised to see a slave with a weapon.>
+  Three minutes remained on the counter.
+  <Wait.>  El looked cautiously optimistic.  <Chase.  Can you crack the slave control program?>
+  There was a pause as Chase's eyes closed.  [They aren't on this network.]
+  <Damn.>
+  [If we meet any, I'll give it a shot,] she offered.
+
+  As the elevator neared their destination, Raziel waved them out of view from the door, and readied a grenade.  The doors slid open and, sure enough, bullets peppered the opposite wall.  Without looking, Raziel tossed the grenade, following it through the portal as soon as the gunfire hesitated.  Three shots caught each of their would-be ambushers as they dove in different directions from cover.  A moment later, the grenade went off, sending office furniture careening outward with an impact that rocked the building.
+  He cast a quick glance around for any other combatants.  Finding none, he waved the others from the elevator.
+  James walked over to the window and looked down.  A squad of soldiers had arrived, tiny dots sprinting toward the building's front entrance.  "They may be having some small difficulties with locked doors and the elevator," Chase predicted.
+  The doors only presented them with a moment's impediment.  A few neatly placed shots shattered the glass.  Then, before they stormed in, the soldiers hesitated.
+  "Waiting for reinforcements," El speculated.  Seconds later, they saw that he had been correct.  A trio of bulky-looking mechs stomped down the street to join the squad.
+  "Surely they don't think that they need all of this firepower for four intruders?" James asked.
+  "The alert was unspecific," El explained.  "From the carnage below, and the speed at which their security was compromised, they may be expecting a larger force.  It'll make them cautious."
+  A flashing in his peripheral vision drew James' attention to the timer projected on his HUD, which now read 0:00.  Had the countdown just now expired?  Subjectively, it had certainly seemed like more than five minutes since they found Alice.
+  Far below them, a commotion had started.  Enhancing his vision, it looked like the mechs had reached the squad... and opened fire.  A handful of soldiers had survived the initial burst of gunfire, diving behind cover.  One of the mechs lazily fired a missile, destroying the hiding soldier and the crate he'd dived behind.
+  "It looks like our distraction has started," El observed.  "We should take advantage of it."
+  From the reception area they were standing in, they followed a corridor that circled the building's inner core.  Floor and ceiling were covered with tile, unnaturally clean; to James' eye, the atmosphere was scientific, or medical.  Before long, they came to a door.  It was locked, but Chase made short work of that.
+  The lab on the other side was empty.  Narrow hospital beds sat in perfect rows; terminals beside each listed flatlined medical readouts.  "Creepy," James said.  They moved on.
+  The next room looked like a control room.  Security cameras flickered between various feeds of static.  They moved on.
+  The third room was occupied, in a way.  Low cages lined the walls.  In each, an alien sat cross-legged, staring vacantly ahead.  IVs hung from the ceiling, taped to each of their arms.
+  El rushed inside.  He waved his hands in front of one of their eyes.  No response, no acknowledgment.  "Slaves," he confirmed grimly.  "Chase?"
+  Chase knelt beside one of the captives and closed her eyes.  "They each have extremely low power wireless connectivity, I assume for security.  I can connect maybe two or three meters away, but no further."  She concentrated for another few seconds, as the others watched with curiosity.  "... Each has their own key... which have not been re-issued.  I'm in."  The alien blinked.
+  El watched intently.  "Can you deactivate the control systems?" he asked anxiously.
+  Chase was silent for a tense minute.  A distant explosion penetrated the building's thick walls.  Suddenly, the alien blinked again, then shook its head.  It steadied itself with one hand and looked from one face to another, disoriented.  "Yes," Chase answered, redundantly.  "He's free.  He'll need a few minutes to recover his senses and basic motor control, I expect.  That is one inhumanly invasive control program."
+  James took one look at the locking mechanism on the cage, snorted, and punched in a factory-default override.  The cage door swung open.
+  "James," Chase said, a mischevous glint appearing in her eye, "start opening the other cages."  He complied readily, curious to see what she was about to do.
+  El helped the captive alien to its feet.  Its footing was unsteady, but rapidly improving.  Chase stayed near, her eyes closed again.  Once James had made it about halfway around the room, she asked El what its condition was.
+  "I- I'm doing okay," the creature answered her with halting words.
+  "Fantastic," she said.  "If you could take a short walk around the other cages?"  The alien walked slowly, but unwaveringly, following the path that James had taken.  As he walked, the aliens in the cages he passed started to blink and stir.
+  "You made it a virus," Raziel said, comprehending.  El grinned.
+  "So I did.  If your friends here walk within receiving distance of any other slaves, their chips will deactivate.  What's more, it should carry through human hosts, too."
+  As James finished the final cage, the earlier aliens were coming to their senses and starting to stumble out, regaining long missing conscious control.  "Wait, so, if you can broadcast this on the Hydra network..."
+  "Voila.  Instant slave uprising.  We should hurry, it would be most effective during the height of the attack.  For the most rapid propagation, we should find a system close to a network backbone."
+  "Dear," said James, "have I ever told you that you're a genius?"
+  "We should check for other prisoners while we're here," Raziel reminded them.  "But haste would be in order."
+  They resumed their traversal of the floor.  They found other labs and what looked like administrative spaces, but no other prisoners, human or otherwise.  Then, they found an armory.  El brightened and started to carry armfuls of all sorts of weaponry back to the former prisoners as the other three continued their search.
+  They stopped before a door that looked somewhat smaller than the rest.  "This was marked as Alice's location in the Codex records," Alice related.  Raziel opened it.
+  It was an utterly featureless cell.  Five smooth, blank surfaces faced inward, without a single decoration.  "Sensory deprivation," Raziel explained.  "To aid the extraction process.  Without stimuli, the mind attempts to fill the gap with memories, hallucinations, what have you, and all of that information is ripe for the harvest."
+  James shuddered.  "And you'd said she wasn't tortured," he remarked.
+  El, who had just rejoined them, confirmed his description.  "This is what was awaiting you on Mintaka, James."
+  There were four other sensory deprivation chambers.  All were empty.  Then, they were back in the room in which they'd arrived.
+  The twenty or so aliens they had just freed from captivity had already organized themselves into a strike squad.  With El's help, they were also armed to the teeth.  Their leader led the rest around the other corridor entrance.
+  "Thanks for freeing us," he spoke to the companions.  "What's the plan?"
+  "Toa is leading a secondary assault nearby in a few hours.  If you act quickly, you could flank the Hydra defenses from this side.  They'd never know what hit them, and you could regroup with the Resistance forces."
+  The leader confirmed with a curt nod.  "And your plans?"
+  "We intend to distribute the virus that freed you through the Hydra network backbone."
+  "The communications center is on the top floor of that building," the alien said, pointing to the matching skyscraper across the street.  "The bridge tunnel is on the thirtieth floor.  I would expect heavy resistance.  Do you want backup?"
+  Another explosion thundered in the background, less distant now.  "Thank you, but I think that we have an excellent distraction to take advantage of."
+  Chase opened the elevator door behind them.  The freed alien declined, and led his forces down the staircase instead.  Raziel shrugged and entered the elevator; the others followed closely behind.
+
+  As they crossed the glass tube that traversed high above the street, they watched a squad of human soldiers travel far below them.  From this altitude, they looked like ants marching in an unnaturally rigid grid.  James wondered how well the main assault was going.
+  The other side of the tunnel opened into a single room, its space subdivided by waist-high cubicle walls.  A few early-morning Hydra employees were working around the room, but none of them were armed: a salvo of warning shots from Raziel sent them scurrying away.  Keeping a wary eye for more heavily armed resistance, he led them to the elevator at the room's center.
+  "Chase, are you on their network?"
+  "Not yet.  It's a little more locked-down than the extraction building.  I might need to get physical access to get in here."
