@@ -67,7 +67,107 @@ Uprising
   Another explosion thundered in the background, less distant now.  "Thank you, but I think that we have an excellent distraction to take advantage of."
   Chase opened the elevator door behind them.  The freed alien declined, and led his forces down the staircase instead.  Raziel shrugged and entered the elevator; the others followed closely behind.
 
-  As they crossed the glass tube that traversed high above the street, they watched a squad of human soldiers travel far below them.  From this altitude, they looked like ants marching in an unnaturally rigid grid.  James wondered how well the main assault was going.
+  As they crossed the glass tube that traversed high above the street, they watched a squad of human soldiers march far below them.  From this altitude, they looked like ants marching in an unnaturally rigid grid.  James wondered how well the main assault was going.
   The other side of the tunnel opened into a single room, its space subdivided by waist-high cubicle walls.  A few early-morning Hydra employees were working around the room, but none of them were armed: a salvo of warning shots from Raziel sent them scurrying away.  Keeping a wary eye for more heavily armed resistance, he led them to the elevator at the room's center.
   "Chase, are you on their network?"
   "Not yet.  It's a little more locked-down than the extraction building.  I might need to get physical access to get in here."
+	"Let's take the stairs this time," James suggested, remembering their reception at the last floor.
+	They climbed flight after flight of stairs.  El and Raziel made no complaint, but Chase, gasping for breath, gave him a good-natured dirty look.  The bridge had brought them over fairly high in the building to begin with, so it only took a few minutes for them to reach the highest floor.
+	At the top of the final flight, a well-used door waited.  Raziel swung it open with his foot, covering the newly revealed room with sweeps of his weapon.  As the alien had predicted, the top floor was clearly housed a networking center and communications array.  Banks of terminals lined rows of equipment, flashing gently fluctuating graphs and readouts.  The skyscraper's roof extended beyond the room's glass walls, unsightly concrete littered with cables.  The view was dominated by a single, monolithic radio dish.
+	Raziel saw the three guards stationed around the corner, just by the elevator door, a moment before they saw him.  Evidently, they had not been paying attention to the alarms that the four intruders had been setting off across the street; they were clustered around a card table, gathered around a virtual hand of some bizarre three-player card game.  Raziel gave them no chance to reach their weapons, leaned against a nearby wall.  He fired three shots.
+	"Heavy resistance," he snorted.  "Chase?  Time to do your magic.  We've got your back."
+	Chase hurried from terminal to terminal, chewing her lip.  She typed a few tentative commands at several of them, only to back away and log out.
+	"James, help me find authentication control," she called.  James started to round the room in the opposite direction, scanning equipment labels.
+	"Here it is," he called from a few rows away.  Chase hurried over, fingers flying over the keypad.
+	Raziel and El took positions by the staircase and the elevator.  James kept a wary eye out the window.  Time passed, punctuated with tense muttering.
+	"Shit!"
+	"What, what's wrong?" James asked.
+	"I botched the crack and triggered a countermeasure."
+	"Translation?" Raziel asked.
+	She slumped forward, forehead on the monitor in front of her.  "I just broadcast our idents and the terminal ID halfway across the planet.  Damn, damn, damn."
+	Raziel and El exchanged a tense glance.  Raziel gestured urgently.  El, picking up on his thought, lent a hand.  They started to barricade the elevator door with loose equipment; Raziel lodged a grenade next to the door, to prepare an unpleasant surprise for the first troops to arrive.
+	"Chase?" James asked, anxiously.  "Chase!"
+	"I never mess that up," she said, hollowly.
+	"Here, um..." James slid next to her by the flashing cursor, flexing his fingers.  He tapped a tentative staccato on the keys.  Mouthing commands to himself silently as he typed, he summoned an FPGA interface, short-circuited the authentication check, and gained access to a raw IO port... "Chase.  Send me the virus."
+	Shaking herself together, she obliged, sending him a stream of data.  James typed as she transmitted.  The payload was a few kilobytes, near instantaneous to send over neural cable, but minutes of careful typing.  Once finished, he asked her to verify a checksum, then flushed the buffer.  The virus was deployed.
+	There had been no motion, either up the stairs or the elevator, or anything visible outside the window.
+	"Maybe all of the troops are committed to the battlefield?" El asked.
+	"Whatever bought us this respite, we should move out as quickly as possible," Raziel replied.
+
+	They reached the ground floor without incident, taking the stairs the full distance down.  Every footstep echoed in Chase's head.  They burst out of the doorway at the last landing, into dawn sunlight streaming through the lobby's tall glass doorway.  The four covered the distance to the door at a crouching sprint.  
+	Raziel flung the door open wide and poked his head up and down the street.  All was silent.  He gestured for the others to proceed through, then followed them at the back.
+	"We should follow this street southward if we want to meet up with the Resistance charge," El observed.  "If the itinerary that Toa provided us is still accurate, we should meet the main charge in ten blocks.  I predict that we hear them a lot sooner than that."
+	A block to the south, a commotion across the street sent them scurrying behind cover.  Gunfire resounded within the squat, bunker-like structure.  After a moment, a squad of aliens ducked out.  As they watched, the trailing pair of aliens were cut down by pursuing fire from inside the doorway.  The rest of them made it to cover by the street side, returning fire toward the door in short bursts.  After a fierce moment, the spat was over.  One of the aliens gave a sequence of rapid hand signals.  Before the companions could approach, the squad had vanished.
+	"The uprising has begun," El said, pleased.  "Good work, Chase and James.  You might not have set all of my people free, but once again you've struck quite a blow for our movement."
+	Chase made no reply.
+	"Still upset about that security trap?" Raziel guessed.  "Well, with the variety of distractions going on right now, it seems that Hydra has their hands too tied to impede our progress, anyway.  I wouldn't let it get you down."
+	The only response has an unhappy grimace.  James squeezed her hand. Raziel shrugged, and ducked from behind the benches they'd been crouched under to resume their route.
+	The moment he made it to standing, he collapsed forward on the pavement, clutching his throat.  A well-aimed dart had been planted in his artery.  He struggled momentarily on the ground, a pool of blood widening around him.
+	Nigel materialized, crouching on his perch on a nearby building's facade.  The assassin effortlessly hopped the five meters to the sidewalk's surface, landing without a sound.  He poked Raziel's still form with a toe.
+	"Kill orders are so much easier to fulfill than that kidnapping business," he commented lightly to the two humans and alien, cowered behind the bench, frozen in shock.  "If it makes you feel any better, Duvier, it wasn't just the trap that you triggered that led me to him.  You four have been lighting up alerts all over the map, ever since Hawk here lit up the Extraction building's lobby."
+	"Who are you?" James asked, incredulously.
+	"Oh, right.  Nigel, professional assassin.  I'd say 'pleased to meet you' or 'at your service' but neither really seems appropriate right now, do they?"
+	"You bastard," James began, pulling his pistol free.
+	Nigel lifted his hands slightly, freeing them from his sleeves.  "Now, now, Hawk.  I don't have a kill order for you.  My business was strictly with Angel boy here."  He gave the body another poke.  "Without this one's firepower, you'll have a tough time making it back to your friends, won't you?  But I think you'd find revenging yourself on me a little more difficult than you found Gregory, even.  You see, my contract with Hydra involved some implant work, too."
+	"You have the Pandora chip installed," El said.
+	Nigel shrugged.  "Something like that.  I'm always up for an upgrade.  But I understand that it makes me a little harder to kill than your pistol could handle."	
+	James lowered his weapon, seething with impotent rage.
+	"That's more like it.  Rationality is always so refreshing these days."
+	With that, Nigel leapt back into the air, regaining the facade and vanishing over its edge in a single, smooth motion.  James and Chase huddled behind their meager cover, numb with shock.
+	"If I'd been a little more careful-" Chase said.  James quieted her.
+	El had already opened a transmission line to Toa, and was filling the other in on their grim status.  Toa was overjoyed to hear about the virus they'd planted, though.  [I'm sorry that it had to come at such a cost to your friends,] he sent, broadcasting to the group.  [But your excursion has been a great boon to us.  Hydra was better prepared for our attack than we had feared they would be.  We're beating them back but we're taking heavy casualties.  Your insurgency might be the extra edge we need to turn the tide.]
+	[Where can we rendezvous with your forces?] El asked.
+	There was a pause.  [The fighting is intense, but largely confined to this street and 42nd,] Toa replied, eventually.  [If you take the catwalk over the water treatment plant to the east, you should be able to breach their flank undetected.  I'll transmit coordinates and alert the front line to expect you, and any freed slaves that make it back to us.  Toa out.]
+	The promised coordinates followed a moment later.  El attempted to rouse his companions.
+	"Stealth is our best ally now," he told them.  "We should stay mobile to avoid being pinned down."
+	James agreed, numbly.  He gave Chase a hand to standing and eased her along.
+	<It's never easy losing friends in battle,> El told them silently as they covered distance to the next intersection. <But we're still in danger here.  Shelve your grief for tonight, when we're safe.>
+	They fought to follow his advice as they rounded the corner.  This deep within Hydra territory, the streets were in excellent repair, which meant less cover; fortunately, the cross street that led them toward Toa's marker had been constructed with two-level sidewalks, presumably to guide pedestrian traffic.  They stumbled down a short stair and kept their heads down as they followed the street's trajectory.
+	James' tentative peeks over the edge revealed no enemy forces visible in the street above, but they were close enough to the battlefront now to hear the thunder of combat.
+
+	The water filtration plant was a series of deep cylindrical wells, twenty meters in diameter, that dotted the concrete ground for a square kilometer or so.  Iron fences lined the facility's perimeter, punctuated with openings that led to a network of maintenance catwalks.
+	[I don't like this,] Chase broadcasted.  [Too much visibility.]
+	[I agree,] said El.  [Cut around the perimeter, maybe?]
+	James answered by hopping the fence.  The others followed, keeping wary eyes about them as they crossed the edge of the open space.  Following the plant's edge was only difficult for a span of ten meters or so along each well, in which the well's edge touched too close to the perimeter fence to comfortably support a foothold.  They were forced to grasp the iron fence posts and hang over the edge, travelling hand over hand until there was enough of a lip to stand again.
+	While they were crossing the second well, a particularly close strike shook the ground.  James lost his grip for a moment, but caught the fence's bottom before he plummeted to the water's surface far below.  He held himself there for a moment, letting his heart rate settle, before muscling himself painfully up and continuing the rest of the way across.
+	They were nearly halfway across the plant before they saw security forces on the catwalks ahead.  Gunfire was audible over the distant noises of battle.  Chase adjusted her optics to get a better view.
+	[Freed slaves,] she said.  [There's a whole squad pinned down on the catwalks on the other side.]
+	[Let's get them a way out,] James offered.
+	They proceeded to the edge of the next well for a better vantage point.  El steadied his railgun and fired a single shot.  The catwalk tore free from its supports, dumping the hapless guards into the well below.  Chase waved an arm to the aliens across the plant.  Their leader waved back, then cautiously led his squad across the walkways toward their newfound allies.
+	El conferred with them briefly.  <The front lines of the invasion are only five or six blocks away,> he told them.  <Toa has told them to expect us.  We should approach cautiously, anyway, from the flank.  We don't want to take any friendly fire.>  The newcomers debated silently for a moment.
+	<We'll support you on the way if you'll guide us,> he replied.  Exchanging a glance with his friends, El assented easily.
+	<Let's get going, then.>
+
+	There were two more firefights on the way to the front lines.  One of the aliens took a bullet to the leg, but El administered first aid, and the combatant was able to continue, leaning against a friend.
+	They stumbled into the enemy forces without much warning.  Hydra soldiers faced off against the alien incursion across a broad canal.  A variety of cables and walkways crossed its width, but neither side had been able to gain a foothold on the opposing surface.  Fire ricocheted around concrete debris strewn across what must have once been a small park as the enemy soldiers ducked in and out of cover.
+	El conferred with his newfound squadmates.  They silently took positions at the park's edge and waited.  On the leader's signal, they opened fire.
+	Caught in a sudden crossfire, the soldiers were eliminated in a fierce minute.  The opposing force charged across, waving the arrivals behind him.
+
+	That evening, James and Chase sat in their quarters, dispirited.  The air was thick with grief and despair.
+	"I messed up," Chase said.  "I messed up, and it cost Raziel his life."
+	"Don't blame yourself like that, Chase," James replied.  "I'm the one who dragged us all along on this nonsense quest to begin with.  I couldn't leave well enough alone."  He sighed.  "I've been so far out of my depth this whole time..." his voice trailed off.
+	They sat together, in silence.
+	[I need your help one more time,] Alice messaged.
+	James sat bolt upright.  He exchanged a startled glance with Chase: she'd gotten it too.  Chase furrowed her brow.
+	"The certificate checks," she said.  "I don't know how, but that's her."
+	[You're alive?] James sent.
+	[For the moment.  You'll see when you get here.]
+	[When we get there?  When we get where?]
+	[That's the favor I need to ask.  I need you to get to a room, and I need you to flip a switch.]
+	[A switch?]
+	[You'll see.  I don't have a lot of time.  Here's the place.]  A set of coordinates arrived.
+	As suddenly as the connection had been initiated, it cut.
+	"How..." Chase started.  James shook his head.
+	"We saw her body!" he said.  "We found her dead in an alley.  Are you sure this isn't just a trap?  Someone isn't spoofing her certificate?"
+	"Impossible to my knowledge," Chase said, conclusively.  "It's not just keyed off of a passphrase, that they could have extracted from her.  There are a variety of biometric measures that need to be present, both genetic and environmental.  Even if they cloned her, they couldn't spoof that message."
+	"Alice is alive," James intoned, incredulous.  "Well," he said, "I suppose it's into the breach once more for us then, isn't it?"
+	"I'm not sure that I'd be any help for you on this one, James," Chase said, sadly.
+	"What do you mean?"
+	"I'm losing my touch.  I made a mistake, triggered a trap that any rookie could avoid.  Now, Raziel is dead."
+	"Everyone makes mistakes."
+	"Not me.  It's-- it was a big part of my reputation."
+	"Nonsense.  You're dating me, aren't you?" James added, with a wry grin.
+	A ghost of a smile touched her lips.
+	"Besides, I need you.  Alice needs you.  I really couldn't do this without you," he admitted.
+	"Well," she said with a sigh, "alright.  I'll go with you.  I said I'd follow you to the end, after all.  I just hope that I'm not the one who brings it."
+
